@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.cypress/
+.vscode/
+.DS_Store
+*.log
+coverage/
