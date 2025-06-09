@@ -1,7 +1,7 @@
 import './commands'
 
-import '../../support/step_definitions/general.ts';
-import '../../support/step_definitions/mentoring.ts';
+import './step_definitions/general';
+import './step_definitions/mentoring';
 
 // cypress/support/e2e.ts atau cypress/support/index.ts
 Cypress.on('uncaught:exception', (runnable) => {
