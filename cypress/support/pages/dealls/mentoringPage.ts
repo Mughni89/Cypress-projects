@@ -23,10 +23,10 @@ export class MentoringPage {
     cy.get('[id="proposedTimes_0_endTime"]').type('2100');
     cy.get('[id*="pick-schedule"]').click();
   }
-  completeProfile() {
+  completeProfile(value: string) {
     cy.get('[id="fullName"]').type('Jaka');
     cy.get('[id="whatsapp"]').type('628523456789');
-    cy.get('[id="email"]').type('a@getnada.com');
+    cy.get('[id="email"]').type(value);
     cy.get('[id="birthDate"]').type('11111991');
     cy.get('[id*="personal-information"]').click();
   }
