@@ -21,7 +21,7 @@ Sistem automasi testing untuk proses request sesi mentoring oleh mentee mengguna
 
 ### 1. Clone repository
 
-git clone https://github.com/username/cypress-projects.git
+git clone https://github.com/Mughni89/cypress-projects.git
 
 ### 2. Install dependencies
 
