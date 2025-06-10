@@ -1,3 +1,10 @@
+Dealls Jobs - QA Software Engineer / SDET Challenge
+## 🔹 Challenge 1 - Test Strategy
+See the test strategy and test scenario outline in (https://github.com/Mughni89/Cypress-projects/blob/main/Technical%20test.docx)
+
+## 🔹 Challenge 2 - UI Automation (Cypress)
+- Tech stack: Cypress + TypeScript
+
 # 🧠 mentee-request-session
 
 Sistem automasi testing untuk proses request sesi mentoring oleh mentee menggunakan **Cypress** dan **TypeScript**. Proyek ini fokus untuk memastikan flow mentoring berjalan lancar melalui skenario e2e yang dapat dijalankan otomatis via CI (GitHub Actions).
